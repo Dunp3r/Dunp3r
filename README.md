@@ -64,5 +64,5 @@ Skills: `HTML5` `CSS3` `SASS` `Flexbox` `GRID` `Bootstrap` `JavaScript` `Git` `G
 
 
 ------
-Credit: [jacquelineatae](https://github.com/DouglasMorean)
+Credit: [DouglasMorean](https://github.com/DouglasMorean)
 Last Edited on: 16/01/2024
